@@ -68,3 +68,7 @@ See current details and ordering instructions: https://message-assistent.pro/pro
 - Email Agent: https://message-assistent.pro/products/email-agent.html
 - YouTube: https://www.youtube.com/@message-assistent
 - Support and help: https://message-assistent.pro/help.html
+
+## Buyer guide and alternatives
+
+Compare the intended use case, product boundaries and adjacent alternatives in the [Email Agent buyer guide](docs/BUYER-GUIDE.md).
